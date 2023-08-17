@@ -8,4 +8,4 @@ Due to GPU usage limits I have taken here only 700 records and have shown the Ac
 
 ## Models used here are
 
-Random Forest,Decision tree, Adaboost, SVM,Multi Layer Perceptron, LSTM
+Random Forest,Decision tree, Adaboost, SVM,Multi Layer Perceptron, LSTM and BERT
